@@ -90,11 +90,11 @@ Moodboard for this theme: [screenshot-moodboard.png](screenshot-moodboard.png)
 Create an archive `orange-rain-light-theme-x.y.z.zip` containing:
   - `orange-rain-theme-light-theme/` 
     - `lib/`
-      - `intellij-orange-rain-theme-x.y.z.jar`
+      - `intellij-orange-rain-light-theme-x.y.z.jar`
         The `.jar` file is another zip archive containing the contents of `src/main/resources`
         with **no additional folder in between, e.g.:
-          - `orange_rain.theme.json`
-          - `orange_rain.xml`
+          - `orange_rain_light.theme.json`
+          - `orange_rain_light.xml`
           - `META-INF/`
             - `plugin.xml`
             - `pluginIcon.svg`
