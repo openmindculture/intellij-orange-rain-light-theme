@@ -1,14 +1,14 @@
 # Orange Rain Light Theme
 
 <!-- Plugin description -->
-[Orange Rain Light Theme](TODO) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.1 (244) EAP and should also support later IDEA versions. Based on Cute Pink Light Theme and JetBrains default light editor scheme. There is also an Orange Rain Dark Theme.
+[Orange Rain Light Theme](https://plugins.jetbrains.com/plugin/23794-orange-rain-light-theme) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.1 (244) EAP and should also support later IDEA versions. Based on Cute Pink Light Theme and JetBrains default light editor scheme. There is also an Orange Rain Dark Theme.
 
 If you like to support development, you can open a pull request on GitHub.
 
 For JetBrains IDEs, 
 To install:
 - Go to Settings (Preferences) | Plugins, find the theme plugin and install it
-- (_or_ download [Orange Rain Light Theme from JetBrains Plugins page](TODO)) 
+- (_or_ download [Orange Rain Light Theme from JetBrains Plugins page](https://plugins.jetbrains.com/plugin/23794-orange-rain-light-theme)) 
 - Restart IDE
 - Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown
 
