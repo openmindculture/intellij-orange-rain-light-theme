@@ -1,0 +1,6 @@
+<scheme name="orange_rain_light" version="142" parent_scheme="Default">
+    <colors>
+        <option name="GUTTER_BACKGROUND" value="FD9649" />
+        <option name="GUTTER_FOREGROUND" value="800E34" />
+    </colors>
+</scheme>

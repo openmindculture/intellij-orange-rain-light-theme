@@ -1,0 +1,26 @@
+.orange_rain {
+    --white: #ffffff;
+    --sepiaLight: #F9F5D5;
+    --foxYellowOrange: #E49000;
+    --deepYellowOrange: #E49d41;
+    --lightWood: #E3CA98;
+    --lighterWood: #f7deb6;
+    --sepiaOrangeLight: #ffe8b7;
+    --sepiaOrangeDeep: #ffb37a;
+    --orangeSalmon: #F29463;
+    --orangeLight: #FD9649;
+    --deepOrange: #F38300;
+    --deepWood: #783d00;
+    --reddishWood: #A95424;
+    --midnightBlackVinyl: #040A19;
+    --vinylBlueGray: #3A5477;
+    --midnightBlue: #223255;
+    --neonBlueDark: #6061FF;
+    --neonBlueLight: #3581FF;
+    --neonBlueBeff: #49BEFF;
+    --pinkPurleShirt: #E0D1E3;
+    --GUTTER_BACKGROUND: #FD9649;
+    --GUTTER_FOREGROUND: #800E34;
+}
+
+

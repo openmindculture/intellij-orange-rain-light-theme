@@ -1,0 +1,21 @@
+<idea-plugin url="https://github.com/openmindculture/intellij-cute-pink-light-theme">
+    <name>Orange Rain Light Theme</name>
+    <id>com.github.openmindculture.intellijorangerainlighttheme</id>
+    <description>Orange Rain Light Theme for IntelliJ Platform</description>
+    <change-notes>Stable theme release tested with 2024.1</change-notes>
+    <version>1.0.0</version>
+    <vendor url="https://github.com/openmindculture/">Ingo Steinke (openmindculture)</vendor>
+
+    <!-- Compatible with the following versions of IntelliJ Platform:
+      version 2020.2 and newer. -->
+    <idea-version since-build="202" />
+
+    <!-- Product and plugin compatibility requirements -->
+    <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <!-- Indicate this plugin can be loaded in all IntelliJ Platform-based products. -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="org.jetbrains.plugins.orange_rain_lighttheme" path="/orange_rain_light.theme.json"/>
+    </extensions>
+</idea-plugin>
