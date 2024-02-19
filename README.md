@@ -83,7 +83,7 @@ Moodboard for this theme: [screenshot-moodboard.png](screenshot-moodboard.png)
 `npm run build`
 
 - requires `bash`/`sh`!
-- creates a `build/distributions/intellij-orange-rain-theme-x.y.z.zip`
+- creates a `build/distributions/intellij-orange-rain-light-theme-x.y.z.zip`
 
 #### Alternative Manual Export (without IntelliJ Build Process)
 
