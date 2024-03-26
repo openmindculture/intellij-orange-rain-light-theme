@@ -3,7 +3,7 @@
     <id>com.github.openmindculture.intellijorangerainlighttheme</id>
     <description>Orange Rain Light Theme for IntelliJ Platform</description>
     <change-notes>Stable theme release tested with 2024.1</change-notes>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <vendor url="https://github.com/openmindculture/">Ingo Steinke (openmindculture)</vendor>
 
     <!-- Compatible with the following versions of IntelliJ Platform:
