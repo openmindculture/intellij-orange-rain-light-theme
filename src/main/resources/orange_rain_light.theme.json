@@ -46,7 +46,7 @@
     "Panel.foreground": "vinylBlueGray",
     "Panel.foreground.hover": "midnightBlackVinyl",
     "Panel.hoverForeground": "midnightBlackVinyl",
-    "ScrollPane.background": "orangeLight",
+    "ScrollPane.background": "sepiaOrangeLight",
     "ScrollPane.foreground": "midnightBlackVinyl",
     "TextArea.foreground": "midnightBlackVinyl",
     "TextField.background": "sepiaOrangeDeep",
