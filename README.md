@@ -24,11 +24,11 @@ Classic UI (PhpStorm 2023.3.3)
 
 ![screenshot 2](screenshot-orange-rain-light-theme-classic-2.png)
 
+![screenshot 3](screenshot-orange-rain-light-theme-classic-3.png)
+
 New UI (WebStorm 2024.1 EAP)
 
 ![screenshot 1](screenshot-orange-rain-light-theme-new-ui.png)
-
-![screenshot 2](screenshot-orange-rain-light-theme-new-ui-2.png)
 
 <!-- Plugin description end -->
 
